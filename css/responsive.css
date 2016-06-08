@@ -1,0 +1,47 @@
+@media screen and (min-width: 1024px) 
+{
+
+.content 
+{
+    padding: 22% 0 0;
+}
+
+.map_icon, .arrow_icon 
+{
+    margin: 1.2% 0 0 -2%;
+}
+
+.arrow_icon 
+{
+    margin: 1.4% 0 0 13.5%;
+}
+
+.home_tab_section 
+{
+    margin-top: 10.5%;
+}
+
+.tile_overlay 
+{
+    width: 80%;
+}
+    
+}
+
+/*1024px*/
+
+@media screen and (min-width: 980px)
+{
+
+.container 
+{
+    width: 900px !important;
+}
+
+.navbar-nav > li > a
+{
+	padding-top: 0 !important;
+	padding-bottom: 0 !important;
+}
+
+}
